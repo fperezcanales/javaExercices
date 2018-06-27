@@ -53,14 +53,14 @@
 
       <!-- Embedded Apache Tomcat required for testing war -->
 
-      <plugin>
+      <!-- <plugin>
         <groupId>org.apache.tomcat.maven</groupId>
         <artifactId>tomcat7-maven-plugin</artifactId>
         <version>2.2</version>
         <configuration>
           <path>/</path>
         </configuration>
-      </plugin>
+      </plugin>  -->
     </plugins>
   </build>
   
